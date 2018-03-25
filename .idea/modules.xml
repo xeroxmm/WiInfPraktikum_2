@@ -3,6 +3,17 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WiInfPraktikum_2.iml" filepath="$PROJECT_DIR$/.idea/modules/WiInfPraktikum_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WiInfPraktikum_2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WiInfPraktikum_2_main.iml" group="WiInfPraktikum_2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WiInfPraktikum_2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WiInfPraktikum_2_test.iml" group="WiInfPraktikum_2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_1_general.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_1_general.iml" group="a2_1_general" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_1_general/a2_1_general_main.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_1_general/a2_1_general_main.iml" group="a2_1_general" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_1_general/a2_1_general_test.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_1_general/a2_1_general_test.iml" group="a2_1_general" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_2_game_life/a2_2_game_life.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_2_game_life/a2_2_game_life.iml" group="a2_2_game_life" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_2_game_life/a2_2_game_life_main.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_2_game_life/a2_2_game_life_main.iml" group="a2_2_game_life" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_2_game_life/a2_2_game_life_test.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_2_game_life/a2_2_game_life_test.iml" group="a2_2_game_life" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_3_teacher/a2_3_teacher.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_3_teacher/a2_3_teacher.iml" group="a2_3_teacher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_3_teacher/a2_3_teacher_main.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_3_teacher/a2_3_teacher_main.iml" group="a2_3_teacher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/a2_3_teacher/a2_3_teacher_test.iml" filepath="$PROJECT_DIR$/.idea/modules/a2_3_teacher/a2_3_teacher_test.iml" group="a2_3_teacher" />
     </modules>
   </component>
 </project>

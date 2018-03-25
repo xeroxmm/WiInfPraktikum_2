@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="a2_1_general_main" target="1.8" />
+      <module name="a2_1_general_test" target="1.8" />
+      <module name="a2_2_game_life_main" target="1.8" />
+      <module name="a2_2_game_life_test" target="1.8" />
+      <module name="a2_3_teacher_main" target="1.8" />
+      <module name="a2_3_teacher_test" target="1.8" />
+      <module name="WiInfPraktikum_2_main" target="1.8" />
+      <module name="WiInfPraktikum_2_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

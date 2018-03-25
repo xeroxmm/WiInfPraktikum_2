@@ -1,2 +1,5 @@
 rootProject.name = 'WiInfPraktikum_2'
+include 'a2_1_general'
+include 'a2_2_game_life'
+include 'a2_3_teacher'
 
